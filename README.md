@@ -4,7 +4,7 @@ Este repositório apresenta uma análise estatística individual de **Gabriel Ve
 
 O objetivo é aplicar conceitos de **análise de desempenho no futebol** com base em dados quantitativos, utilizando ferramentas de visualização (radar e mapa de calor), e interpretar os números à luz do desempenho técnico-tático.
 
-> **Nota**: Todos os dados foram extraídos das plataformas [Sofascore](https://www.sofascore.com/) e [Flashscore](https://www.flashscore.com/) e representam **médias por jogo**, garantindo comparabilidade justa.
+> **Nota**: Todos os dados foram extraídos da plataforma [Sofascore](https://www.sofascore.com/) e representam **médias por jogo**, garantindo comparabilidade justa.
 
 ---
 
